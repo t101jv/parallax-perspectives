@@ -1,0 +1,36 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Glen&#039;s Parallax Perspectives - ECPv5.4.0.2//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Glen&#039;s Parallax Perspectives
+X-ORIGINAL-URL:https://parallaxperspectives.org
+X-WR-CALDESC:Events for Glen&#039;s Parallax Perspectives
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:20210314T100000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:20211107T090000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20210409T163000
+DTEND;TZID=America/Los_Angeles:20210409T180000
+DTSTAMP:20210514T195036
+CREATED:20210114T233324Z
+LAST-MODIFIED:20210114T233324Z
+UID:8515-1617985800-1617991200@parallaxperspectives.org
+SUMMARY:Peace Vigil with Fellowship of Reconciliation & Women in Black\, Every Friday
+DESCRIPTION:Organizer:Olympia Fellowship of Reconciliation\nFOR  Every Friday from 4:30 to 6:00 pm:  Peace Vigil at SW corner of Percival Landing\, 4th & Water in Olympia.  Hold signs for peace\, nonviolence\, social justice\, human rights\, climate\, etc.  Use our signs or bring your own non-partisan signs.  Every Friday since November 1998\, regardless of weather or holidays.\nSponsor:  Olympia Fellowship of Reconciliation.\nInfo:  Glen Anderson\, (360)491-9093\,  glenanderson@integra.net
+URL:https://parallaxperspectives.org/event/peace-vigil-with-fellowship-of-reconciliation-women-in-black-every-friday-12
+LOCATION:Percival Landing@Percival Landing\, 217 Thurston Ave NW\, Olympia\, WA\, 98501\, United States
+END:VEVENT
+END:VCALENDAR

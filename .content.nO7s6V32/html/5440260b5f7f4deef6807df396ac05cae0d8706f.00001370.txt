@@ -1,0 +1,5 @@
+Sitemap: https://parallaxperspectives.org/sitemap.xml
+Sitemap: https://parallaxperspectives.org/news-sitemap.xml
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php

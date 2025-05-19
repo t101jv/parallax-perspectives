@@ -1,0 +1,144 @@
+/*** Wrapper background colors ***/
+.mh-header { background: #FFFFDE;}
+.mh-wrapper {background: #FFFFDE;}
+.mh-footer {background: #002900;}
+.mh-copyright-wrap {background: #002900;}
+
+.mh-header-title {
+    font-size: 2.5em;
+		   font-family: Helvetica;
+	  text-transform: none;
+	   color: #4B0082;
+}
+
+.mh-header-tagline {
+    font-size: 1em;
+		text-transform: none;
+	    font-family: Helvetica;
+	    font-weight: normal;
+		color:  #000;
+}
+
+h1 {
+    font-size: 1.5em;
+		 font-family: Helvetica;
+		color:  #4B0082;
+    font-weight: bold;
+}
+h2 {
+    font-size: 1.2em;
+  		color:  #4B0082;  
+	font-weight: bold;
+}
+h3 {
+    font-size: 1.2em;
+    font-weight: bold;
+	  color:  #000;
+	margin-top: 1em !important;
+	margin-bottom: 0.5em !important;
+}
+h4 {
+    font-size: 1.2em;
+    font-weight: bold;
+	  color: #1D3247;
+	margin-top: 1em !important;
+	margin-bottom: 0.5em !important;
+}
+h5 {
+    font-size: 1em;
+    font-weight: bold;
+	margin-top: 1em !important;
+	margin-bottom: 0.5em !important;
+}
+h6 {
+    font-size: 1em;
+	 font-weight: normal;
+   line-height: 1.4em;
+	 margin-top: 0 !important;
+	 margin-bottom: 0 !important;
+}
+p {
+   font-size: 1em;
+	 font-weight: normal;
+   line-height: 1.4em;
+	 margin-top: 0 !important;
+	 margin-bottom: 1.4em !important;
+}
+
+
+
+/***** Block quote *****/
+blockquote { display: block; font-size: 15px; font-size: 0.9375rem; line-height: 1.6; font-style: italic; color: #666; padding: 5px 0 5px 15px; border-left: 5px solid #002900; }
+
+/***** Navigation Bar *****/
+.mh-main-nav-wrap { background: #002900; }
+.mh-main-nav { text-transform: none; border-bottom: 5px solid #1D1D47; }
+
+.mh-main-nav .menu > .current-menu-item { background: #1D471D; }
+.mh-main-nav li:hover { background: 	#253515; }
+
+.mh-main-nav .sub-menu li  {
+	background: #253515;
+}
+.mh-main-nav .sub-menu li:hover {
+	background: #253515;
+}
+
+/*** Widget Titles ***/
+.mh-widget-title {
+    position: relative;
+    font-size: 16px;
+    font-size: 1rem;
+    padding-bottom: 5px;
+    margin-bottom: 20px;
+    margin-bottom: 1.25rem;
+    text-transform: none;
+    border-bottom: 3px solid #002900;
+}
+
+/*** ORIGINAL CSS ***/
+
+/*** No Image Placeholder ***/
+.mh-image-placeholder { display: none; }
+
+/***** Links *****/
+a { color: #005D96 ; 
+	text-decoration: none; }
+a:hover { 
+	color: #1a73e8;    
+	font-weight: bold; }
+.mh-meta, .mh-meta a { 
+	color: #999; 
+}
+.mh-meta a:hover { 
+	color: #1a73e8; 
+  font-weight: bold;}
+.entry-content a { 
+ font-weight: bold;
+	color: #1a73e8 !important; }
+.entry-content a:hover { 
+	color: #1a73e8 !important; 
+	font-weight: bold;
+	text-decoration: underline; }
+.mh-loop-header a { 
+	color: #4b0082;
+}
+.mh-sidebar a { 
+	color: #000000;
+	font-size: 0.9em;
+}
+.mh-sidebar a:hover { 
+	color: #1a73e8;
+	font-weight: normal;
+	font-size: 0.9em;
+}
+	
+/***** Meta data on posts *****/
+.mh-meta-comments { display: none; }
+ .mh-meta-author { display: none; }
+ .entry-meta-author { display: none; }
+.entry-meta-comments { display: none; }
+/**** Events Calendar ****/
+#tribe-events .tribe-events-button, #tribe-events .tribe-events-button:hover, #tribe_events_filters_wrapper input[type=submit], .tribe-events-button, .tribe-events-button.tribe-active:hover, .tribe-events-button.tribe-inactive, .tribe-events-button:hover, .tribe-events-calendar td.tribe-events-present div[id*=tribe-events-daynum-], .tribe-events-calendar td.tribe-events-present div[id*=tribe-events-daynum-]>a {
+    background-color:#BDBDBD;
+}

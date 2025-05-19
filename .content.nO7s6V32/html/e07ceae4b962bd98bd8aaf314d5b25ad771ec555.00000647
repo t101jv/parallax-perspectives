@@ -1,0 +1,36 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Glen&#039;s Parallax Perspectives - ECPv5.4.0.2//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Glen&#039;s Parallax Perspectives
+X-ORIGINAL-URL:https://parallaxperspectives.org
+X-WR-CALDESC:Events for Glen&#039;s Parallax Perspectives
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:20210314T100000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:20211107T090000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20210531T133000
+DTEND;TZID=America/Los_Angeles:20210531T143000
+DTSTAMP:20210613T223526
+CREATED:20210504T185706Z
+LAST-MODIFIED:20210504T185706Z
+UID:8941-1622467800-1622471400@parallaxperspectives.org
+SUMMARY:Economic Justice -- A Bold New Agenda
+DESCRIPTION:May 2021\nEconomic Justice – A Bold New Agenda\nThe May 2021 episode of “Glen’s Parallax Perspectives” TV series (also watchable on your computer) helps you understand the economic crisis we are experiencing now – and the long-standing economic problems that have led to our current crisis.  We explore problems and solutions for promoting economic justice and fairness for ordinary people. \nTwo guests are experts on a variety of problems and solutions related to economic justice:  Bartlett Naylor is a Financial Policy Advocate working for Public Citizen (www.citizen.org)\, the amazingly savvy non-profit organization founded by Ralph Nader half a century ago.  Sarah Anderson is a Program Director working for the Institute for Policy Studies (www.ips-dc.org)\, a very knowledgeable non-profit organization that has worked on a variety of issues since the 1960s. \n  \nThurston County’s people with cable TV can watch it 13 times throughout the month on channel 22 (every Monday at 1:30 pm\, every Wednesday at 5:00 pm\, and every Thursday at 9:00 pm). \nAlso\, Glen Anderson posted it to his blog\, www.parallaxperspectives.org\, so people anywhere can watch it at any time. He typed up a very thorough summary of what we said during the interview.  That document ends with links to further information.  This thorough summary is posted to the blog too.  It’s posted to the blog’s categories for “TV Programs” and “Economics.” \nQuestions?  Contact Glen Anderson\, the TV series’ producer/host at (360) 491-9093 glenanderson@integra.net
+URL:https://parallaxperspectives.org/event/economic-justice-a-bold-new-agenda/2021-05-31
+LOCATION:Your computer or TCTV cable channel 22 in Thurston County\, WA\, United States
+END:VEVENT
+END:VCALENDAR

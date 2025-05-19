@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comments on: What does &#8220;parallax&#8221; mean?</title>
+	<atom:link href="/what-does-parallax-mean/feed" rel="self" type="application/rss+xml" />
+	<link>http://parallaxperspectives.org/what-does-parallax-mean</link>
+	<description>This is independent from any organization or political party. It provides information, analysis, and resources about a wide variety of issues and opportunities related to peace, nonviolence, social justice, economic justice, and how to make our world better.</description>
+	<lastBuildDate>Thu, 28 Sep 2017 12:36:45 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.2</generator>
+</channel>
+</rss>
